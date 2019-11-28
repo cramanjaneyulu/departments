@@ -1,14 +1,13 @@
 [{
-                          "name": "Women",
-                          "url": "/women",
-                        },
-                        {
-                          "name": "Men",
-                          "url": "/men",
-                          },
-                        {
-                          "name": "Kids",
-                          "url": "/kids",
-                          }
+  "name": "Women",
+  "url": "/women",
+},
+{
+ "name": "Men",
+  "url": "/men",
+ },
+ {
+   "name": "Kids",
+   "url": "/kids",
  }
 ]
