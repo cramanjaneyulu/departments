@@ -1,0 +1,12 @@
+[{
+   name: "Women",
+   url: "/women",
+},
+{
+  name: "Men",
+  url: "/men",
+},
+{
+ name: "Kids",
+ url: "/kids",
+}]
