@@ -1,14 +1,128 @@
 [
-{
-  "name": "Women",
-  "url": "/women"
-},
-{
- "name": "Men",
-  "url": "/men"
- },
- {
-   "name": "Kids",
-   "url": "/kids"
- }
+  {
+    "desc": "Exercise to your full potential with a Fitbit Versa™ smart watch featuring touchscreen capabilities, personalized tracking and music control to help reach your fitness goals.",
+    "id": 1,
+    "img": "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/10082041_fpx.tif",
+    "name": "Versa™ Black Band Touchscreen Smart Watch 39mm",
+    "price": "IINR 1,442.00",
+    "product_details": "Exercise to your full potential with a Fitbit Versa™ smart watch featuring touchscreen capabilities personalized tracking and music control to help reach your fitness goals. Style ",
+    "bullet_description": [
+      "<B>Sizing:</B> Kids",
+      "<B>Material:</B> 60% Cotton, 40% Polyester",
+      "<B>Garment Length:</B> At knee",
+      "<B>Strap</B> Purple",
+      "<B>Neckline:</B> Crew",
+      "<B>Water resistance:</B> splash resistant",
+      "Get FREE watch sizing at Macy's stores—just show us your Macy's proof-of-purchase.",
+      "Don't have your proof-of-purchase? Then pay just $15.",
+      "This item purchased online must be returned to the vendor by mail only. This item cannot be returned to Macy's stores."
+    ],
+    "specialOffers": "INR 1,084.00 DIAMOND BONUS BUY"
+  },
+  {
+    "desc": "Fitbit's Charge 3 packs an incredible amount of fitness tracking ability into a svelte case of rose gold-tone aluminum on a resilient blue-gray strap. ",
+    "id": 2,
+    "img": "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/9476999_fpx.tif",
+    "name": "Fitbit Versa™ Peach Band Touchscreen Smart Watch ",
+    "price": "INR 2,222.00",
+    "product_details": "Versus Fire Island moves to the next generation. The newest evolution of Fire Island brings the Indiglo feature to the dial.",
+    "bullet_description": [
+      "<B>Movement::</B> Quartz",
+      "<B>Case:Round:</B>Round 46MM",
+      "<B>Garment Length:</B> At knee",
+      "<B>Strap</B> Purple",
+      "<B>Neckline:</B> Crew",
+      "<B>Water resistance:</B> splash resistant",
+      "<B>Created for Macy's</B> 23.5",
+      "Photo may have been enlarged and/or enhanced",
+      "Savings Based On Offering Prices, Not Actual Sales.",
+      "Don't have your proof-of-purchase? Then pay just $15.",
+      "This item purchased online must be returned to the vendor by mail only. This item cannot be returned to Macy's stores."
+    ],
+    "specialOffers": "Now INR 853.00 Orig. INR 2,892.00"
+  },
+  {
+    "desc": "Fitbit's Versa™ touch screen smart watch helps you live your best life with personalized feature, continuous tracking and a sleek rose gold.",
+    "id": 3,
+    "img": "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/3962598_fpx.tif",
+    "name": "Fitbit Charge 3 Unisex Black Elastomer Band Touchscreen Smart Watch 22.7mm",
+    "price": "INR 1,222.00",
+    "product_details": "Perfect for coastal vacations or just everyday wear, this charming Charter Club watch features a case cover topped with a starfish.",
+    "bullet_description": [
+      "<B>Movement::</B> three-hand quartz",
+      "<B>Case:Round:</B>tonneau; 25mm",
+      "<B>Strap</B> silver-tone bracelet with starfish flip cover",
+      "<B>Dial</B> white",
+      "<B>Water resistance:</B> splash resistant",
+      "<B>Created for Macy's</B> 23.5",
+      "Photo may have been enlarged and/or enhanced",
+      "Savings Based On Offering Prices, Not Actual Sales.",
+      "Don't have your proof-of-purchase? Then pay just $15.",
+      "This item purchased online must be returned to the vendor by mail only. This item cannot be returned to Macy's stores."
+    ],
+    "specialOffers": "INR 3,084.00 DIAMOND BONUS BUY"
+  },
+  {
+    "desc": "Caravelle presents this professional stainless steel and black leather watch with a high-visibility white, black and red dial aluminum case with a peach elastomer strap.",
+    "id": 4,
+    "img": "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/9972921_fpx.tif",
+    "name": "NEW! Men's Black Strap Watch 44mm",
+    "price": "INR 4,122.00",
+    "product_details": "Versus Star Ferry, one of the best seller collection, has been now relaunched with a new execution: 2 hands movement with small seconds enlightened by precious Swarovski crystals. A modern dial with Versus Versace lion head at 12'. To flag the lizard strap version for a more feminine touch",
+    "bullet_description": [
+      "<B>Movement::</B> Quartz",
+      "<B>Case:Round:</B>Round,38mm",
+      "<B>Strap</B> Two Tone Bracelet Deployant",
+      "<B>Dial</B> Index",
+      "<B>Water resistance:</B> splash resistant",
+      "<B>Created for Macy's</B> 23.5",
+      "Photo may have been enlarged and/or enhanced",
+      "Savings Based On Offering Prices, Not Actual Sales.",
+      "Don't have your proof-of-purchase? Then pay just $15.",
+      "This item purchased online must be returned to the vendor by mail only. This item cannot be returned to Macy's stores."
+    ],
+    "specialOffers": "INR 3,084.00 DIAMOND BONUS BUY"
+  },
+  {
+    "desc": "Shining silver-tone metal gets freshened up with white enamel on Charter Club's multifunction watch. ",
+    "id": 5,
+    "img": "https://slimages.macysassets.com/is/image/MCY/products/2/optimized/9069442_fpx.tif",
+    "name": "Charter Club Women's White & Silver-Tone Bracelet Watch 32mm, Created for Macy's",
+    "price": "INR 1,432.00",
+    "product_details": "Perfect for coastal vacations or just everyday wear, this charming Charter Club watch features a case cover topped with a starfish.",
+    "bullet_description": [
+      "<B>Movement::</B> three-hand quartz",
+      "<B>Case:Round:</B>tonneau; 25mm",
+      "<B>Strap</B> silver-tone bracelet with starfish flip cover",
+      "<B>Dial</B> white",
+      "<B>Water resistance:</B> splash resistant",
+      "<B>Created for Macy's</B> 23.5",
+      "Photo may have been enlarged and/or enhanced",
+      "Savings Based On Offering Prices, Not Actual Sales.",
+      "Don't have your proof-of-purchase? Then pay just $15.",
+      "This item purchased online must be returned to the vendor by mail only. This item cannot be returned to Macy's stores."
+    ],
+    "specialOffers": "INR 3,084.00 DIAMOND BONUS BUY"
+  },
+  {
+    "desc": "A gold-tone bracelet sparkles with the addition of crystals accents on Charter Club's petite watch.",
+    "id": 6,
+    "img": "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/12717625_fpx.tif",
+    "name": "Charter Club Women's Heart Charm Bangle Bracelet Watch 26mm, Created for Macy's",
+    "price": "INR 4,998.00",
+    "product_details": "Sportif but yet fashion, Versus Versace Kowloon Park combines the precision of the japanese cronograph movement with the modern attire of its octagonal case.",
+    "bullet_description": [
+      "<B>Movement::</B> three-hand quartz",
+      "<B>Case:Round:</B>tonneau; 25mm",
+      "<B>Strap</B> silver-tone bracelet with starfish flip cover",
+      "<B>Dial</B> white",
+      "<B>Water resistance:</B> splash resistant",
+      "<B>Created for Macy's</B> 23.5",
+      "This item purchased online must be returned to the vendor by mail only. This item cannot be returned to Macy's stores.",
+      "Sign up for Macy's WorryNoMore® Jewelry & Watch Protection program within 30 days of purchase. Before delivery, call Customer Service 1-800-289-6229 to sign up. After delivery, visit a Macy's store with your dated receipt and jewelry purchase to sign up.",
+      "Don't have your proof-of-purchase? Then pay just $15.",
+      "This item purchased online must be returned to the vendor by mail only. This item cannot be returned to Macy's stores."
+    ],
+    "specialOffers": "INR 3,084.00 DIAMOND BONUS BUY"
+  }
 ]
