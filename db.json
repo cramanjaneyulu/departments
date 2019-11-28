@@ -1,13 +1,14 @@
-[{
+[
+{
   "name": "Women",
-  "url": "/women",
+  "url": "/women"
 },
 {
  "name": "Men",
-  "url": "/men",
+  "url": "/men"
  },
  {
    "name": "Kids",
-   "url": "/kids",
+   "url": "/kids"
  }
 ]
