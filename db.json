@@ -1,12 +1,12 @@
 {
 	"departments": [{
-		name: "Women",
-		url: "/women"
+		"name": "Women",
+		"url": "/women"
 	}, {
-		name: "Men",
-		url: "/men"
+		"name": "Men",
+		"url": "/men"
 	}, {
-		name: "Kids",
-		url: "/kids"
+		"name": "Kids",
+		"url": "/kids"
 	}]
 }
